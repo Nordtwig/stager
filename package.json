@@ -4,7 +4,7 @@
   "description": "A simple full stack website following the Git a Web Developer Job-course on Udemy. ",
   "main": "app.js",
   "scripts": {
-    "dev": "webpack",
+    "dev": "webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
