@@ -3,9 +3,11 @@ import "lazysizes";
 import MobileMenu from "./modules/MobileMenu";
 import StickyHeader from "./modules/StickyHeader";
 import RevealOnScroll from "./modules/RevealOnScroll";
+import ClientArea from "./modules/ClientArea";
 
 new MobileMenu();
 new StickyHeader();
+new ClientArea();
 
 let modal;
 
